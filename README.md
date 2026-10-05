@@ -210,7 +210,7 @@ print("Fire will be extinguished:", prediction[0] == 1)
 
 ## 📄 License
 
-This project is part of an academic assignment. Please refer to your institution's policies regarding code sharing and reuse.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file.
 
 ## 🤝 Contributing
 
