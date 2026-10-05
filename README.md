@@ -112,7 +112,7 @@ Python 3.7+
 
 ### Required Libraries
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn xgboost pickle-mixin openpyxl tabulate
+pip install -r requirements.txt
 ```
 
 ### For Tkinter GUI (usually pre-installed with Python)

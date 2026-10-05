@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+xgboost
+tabulate
+openpyxl  # pandas.read_excel for the .xlsx dataset
+# The Tkinter notebook also needs tkinter, which comes with Python (on Linux: sudo apt install python3-tk)
