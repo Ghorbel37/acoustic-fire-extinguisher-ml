@@ -1,5 +1,7 @@
 # 🔥 Fire Extinguisher Prediction using Sound Waves
 
+*Built for a machine learning course (2025).*
+
 A machine learning project that predicts whether a fire can be extinguished using sound waves based on various parameters such as fuel type, distance, frequency, decibel level, and airflow.
 
 ## 📋 Table of Contents
